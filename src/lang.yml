@@ -1,0 +1,6 @@
+error:
+  console_access_blocked: '&cSorry, but this command is not available via console.'
+  no_permissions: '&cYou do not have permissions!'
+info:
+  lasergun_name: '&6&lLaser Gun'
+  lasergun_lore: '&eUse this gun to shoot other players!'

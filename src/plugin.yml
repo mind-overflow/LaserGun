@@ -1,0 +1,11 @@
+name: LaserGun
+version: alpha-BUILD_NUMBER
+author: mind_overflow
+main: net.mindoverflow.lasergun.LaserGun
+api-version: 1.13
+softdepend: [ProtocolLib]
+
+commands:
+  lasergun:
+    description: LaserGun base command.
+    usage: /lasergun <args>

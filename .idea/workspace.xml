@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Spigot Complete Plugin (Debugger, Listener, CommandExecutor):jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="89416e2e-2c77-406b-b1ba-832a73db08e5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WtCBtrdbQ7L1kO8DRxBrBxDqoC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="lasergun" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../spigot-1.14.4.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89416e2e-2c77-406b-b1ba-832a73db08e5" name="Default Changelist" comment="" />
+      <created>1579959371190</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579959371190</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="873" y="359" key="#Project_Structure" timestamp="1584407966734">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="873" y="359" key="#Project_Structure/0.0.2560.1400/3840.1065.1600.860@0.0.2560.1400" timestamp="1579970197122" />
+    <state x="873" y="359" key="#Project_Structure/3840.1065.1600.840/-1360.1191.1360.728/0.0.2560.1400@0.0.2560.1400" timestamp="1584407966734" />
+    <state x="1086" y="404" key="#com.intellij.ide.util.MemberChooser" timestamp="1579975786283">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1086" y="404" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400/3840.1065.1600.860@0.0.2560.1400" timestamp="1579975786283" />
+    <state x="721" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1579959743873">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="721" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.2560.1400/3840.1065.1600.860@0.0.2560.1400" timestamp="1579959743873" />
+    <state x="1011" y="446" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580576147910">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1011" y="446" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400/3840.1065.1600.860@0.0.2560.1400" timestamp="1579973457686" />
+    <state x="1011" y="446" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/3840.1065.1600.840/-1360.1191.1360.728/0.0.2560.1400@0.0.2560.1400" timestamp="1580576147910" />
+    <state x="1035" y="403" key="DetectedRootsChooserDialog" timestamp="1584407120941">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1035" y="403" key="DetectedRootsChooserDialog/3840.1065.1600.840/-1360.1191.1360.728/0.0.2560.1400@0.0.2560.1400" timestamp="1584407120941" />
+    <state x="967" y="441" key="FileChooserDialogImpl" timestamp="1584407941660">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="967" y="441" key="FileChooserDialogImpl/0.0.2560.1400/3840.1065.1600.860@0.0.2560.1400" timestamp="1579972638166" />
+    <state x="967" y="441" key="FileChooserDialogImpl/3840.1065.1600.840/-1360.1191.1360.728/0.0.2560.1400@0.0.2560.1400" timestamp="1584407941660" />
+  </component>
+</project>
