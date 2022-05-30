@@ -9,13 +9,13 @@ This is a very basic Spigot plugin that adds a laser gun in Minecraft.
 - /lasergun get: add the gun to your inventory!
 - /lasergun reload: reload the config.
 
-##Permissions
+## Permissions
 - lasergun.command.getgun: get the gun!
 - lasergun.usegun: fire the gun!
 - lasergun.command.reload: reload the config.
 - lasergun.updates: get updates notifications.
 
-##Config
+## Config
 ```yaml
 radius: 10 # maximum shooting range
 damage: 6.0 # lasergun projectile damage
